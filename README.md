@@ -1,5 +1,16 @@
 # Arc-Boosts
 
+### Google Reddit button
+
+This button simply modifies your search query and appends `reddit` to filter your Google search to Reddit.
+
+
+https://user-images.githubusercontent.com/38050211/198892238-7b9b0787-c2fd-4d53-885d-76380928eefb.mov
+
+
+
+
+---
 
 ## Installation
 1. Open boost folder you'd like
